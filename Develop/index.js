@@ -17,22 +17,24 @@ function promptUser() {
         {
             type: "input",
             name: "description",
-            message: "Please enter the description of your project?"
+            message: "Please enter the description of your project."
         },
         {
             type: "input",
             name: "installation",
-            message: "Please provide the installation instructions of your project?"
+            message: "Please provide the installation instructions of your projec.?"
         },
         {
             type: "input",
             name: "usage",
-            message: "please enter the usage information of your project?"
+            message: "please enter the usage information of your project."
         },
         {
-            type: "choice",
+            type: "list",
             name: "license",
-            message: "Please choose your license?"
+            message: "Please choose your license for this project.",
+            choices: ["GNU AGPLv3","GNU GPLv3", "Apache 2.0", "MIT", "Boost 1.0", "PDDL"],
+            
         },
         {
             type: "input",
@@ -42,7 +44,7 @@ function promptUser() {
         {
             type: "input",
             name: "tests",
-            message: "Please provide tests instructions of your project?"
+            message: "Please provide tests instructions of your project."
         },
         {
             type: "input",
