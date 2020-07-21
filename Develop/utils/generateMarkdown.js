@@ -6,28 +6,25 @@ function generateMarkdown(data) {
     ## Table of Contents 
     * [Installation](#installation)
     * [Usage](#usage)
-    * [Credits](#credits)
     * [License](#license)
-    * [Tests](#tests)
-    * [Questions](#questions)
     * [Contributing](#contributing)
-    * [GitHub](#github)
-    * [Email](#email) 
+    * [Tests](#tests)
+    * [Contact](#email)
     ## Installation
     ${data.installation}
     ## Usage Information
     ${data.usage}
     ## License
-    ${data.licens}
+    ${data.license}
     ## Contributing Guidelines
     ${data.contributing}
     ## Tests Instructions
     ${data.tests}
-    ## Email Address
-    ${data.email}
+    ## Contact
+    If you have any questions about the project,please contact  ${data.email}
     ## GitHub Username
     ${data.github}
-    ### Contact Instructions
+    ## Contact Instructions
     ${data.question}
 `;
 }
