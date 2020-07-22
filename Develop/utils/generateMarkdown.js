@@ -10,28 +10,28 @@ function generateMarkdown(data) {
     
   ## Table of Content 
   * [Installation](#installation)
-  * [Usage](#usage)
+  * [Usage](#usage-informations)
   * [License](#license)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
+  * [Contributing](#contributing-guidelines)
+  * [Tests](#tests-insrtuctions)
   * [Contact](#contact)
    
   ## Installation
   ${data.installation}
     
-  ## Usage
+  ## Usage Informations
   ${data.usage}
    
   ## License
   This application is covered by ${data.license} license.
     
-  ## Contributing
+  ## Contributing Guidelines
   ${data.contributing}
     
-  ## Tests
+  ## Tests Instructions
   ${data.tests}
     
-  ## GitHub
+  ## GitHub Username
   http://www.github.com/${data.github}
     
   ## Contact
