@@ -1,4 +1,5 @@
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  ![](https://img.shields.io/github/followers/AtimaB?style=social)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
+![](https://img.shields.io/github/followers/AtimaB?style=social)
 
 
 # README Generator
