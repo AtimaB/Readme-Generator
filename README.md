@@ -13,9 +13,9 @@ This project I created a command-line application that generates a professional 
 * [Questions](#questions)
 
 ## Installation
-
+  To install the necessary dependencies, run the following command: The user has to clone [README Generator Repository](https://github.com/AtimaB/Readme-Generator.git) then run `npm init`,`npm install inquirer` and `npm util`.
 ## Usage Information
-
+  Type `node index.js` in console and follow all the questions, once the user answered all the questions, README.md file will be created into the root directory.
 ## Contribution Guidelines
 
 ## Tests Instructions

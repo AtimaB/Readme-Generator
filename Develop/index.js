@@ -63,7 +63,7 @@ function promptUser() {
         },
     ]);
 }
-// const questions = [
+
     
 
 // function to write README file
@@ -83,7 +83,9 @@ async function init() {
         console.log(err);
     }
 } 
-
  
 // function call to initialize program
 init();
+
+
+
