@@ -1,5 +1,5 @@
 # hello world test
-  ![License: GNU AGPLv3](https://img.shields.io/badge/License-GNU%20AGPLv3-green.svg)
+  ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
    
 
   ## Description
@@ -7,28 +7,28 @@
     
   ## Table of Content 
   * [Installation](#installation)
-  * [Usage](#usage_informations)
+  * [Usage](#usage)
   * [License](#license)
-  * [Contributing](#contributing_guidelines)
-  * [Tests](#tests_instructions)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
   * [Contact](#contact)
    
   ## Installation
   test
     
-  ## Usage Informations
+  ## Usage
   test
    
   ## License
-  This application is covered by GNU AGPLv3 license.
+  This application is covered by MIT license.
     
-  ## Contributing Guidelines
+  ## Contributing
   test
     
-  ## Tests Instructions
+  ## Tests
   test
     
-  ## GitHub Username
+  ## GitHub
   http://www.github.com/testtttt
     
   ## Contact
