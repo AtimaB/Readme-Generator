@@ -1,38 +1,38 @@
-# hello world test
-  ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-green.svg)
+# Hello World
+  ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
    
 
   ## Description
   test
     
-  ## Table of Content 
+  ## Table of Contents 
   * [Installation](#installation)
-  * [Usage](#usage-informations)
+  * [Usage](#usage-information)
   * [License](#license)
-  * [Contributing](#contributing-guidelines)
+  * [Contribution](#contribution-guidelines)
   * [Tests](#tests-instructions)
-  * [Contact](#contact)
+  * [Questions](#questions)
    
   ## Installation
   test
     
-  ## Usage Informations
+  ## Usage Information
   test
-   
-  ## License
-  This application is covered by Apache 2.0 license.
-    
-  ## Contributing Guidelines
+       
+  ## Contribution Guidelines
   test
     
   ## Tests Instructions
   test
+  
+  ## License
+  This application is covered by MIT license.
     
-  ## GitHub Username
-  http://www.github.com/testtttt
-    
-  ## Contact
-  If you have any questions about this application,please contact  test@gmail.com
+  ## Questions
+  #### GitHub
+  http://www.github.com/test
+
+  If you have any questions about this application,please contact  test
   #### Contact Instruction
   test
     

@@ -8,33 +8,33 @@ function generateMarkdown(data) {
   ## Description
   ${data.description}
     
-  ## Table of Content 
+  ## Table of Contents 
   * [Installation](#installation)
-  * [Usage](#usage-informations)
+  * [Usage](#usage-information)
   * [License](#license)
-  * [Contributing](#contributing-guidelines)
+  * [Contribution](#contribution-guidelines)
   * [Tests](#tests-instructions)
-  * [Contact](#contact)
+  * [Questions](#questions)
    
   ## Installation
   ${data.installation}
     
-  ## Usage Informations
+  ## Usage Information
   ${data.usage}
-   
-  ## License
-  This application is covered by ${data.license} license.
-    
-  ## Contributing Guidelines
+       
+  ## Contribution Guidelines
   ${data.contributing}
     
   ## Tests Instructions
   ${data.tests}
+  
+  ## License
+  This application is covered by ${data.license} license.
     
-  ## GitHub Username
+  ## Questions
+  #### GitHub
   http://www.github.com/${data.github}
-    
-  ## Contact
+
   If you have any questions about this application,please contact  ${data.email}
   #### Contact Instruction
   ${data.question}
