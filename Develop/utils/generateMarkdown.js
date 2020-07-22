@@ -8,13 +8,13 @@ function generateMarkdown(data) {
   ## Description
   ${data.description}
     
-  ## Table of Content
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Contact](#contact)
+  ## Table of Content 
+  [Installation](#installation)
+  [Usage](#usage)
+  [License](#license)
+  [Contributing](#contributing)
+  [Tests](#tests)
+  [Contact](#contact)
    
   ## Installation
   ${data.installation}
@@ -32,7 +32,7 @@ function generateMarkdown(data) {
   ${data.tests}
     
   ## GitHub Username
-  ${data.github}
+  http://www.github.com/${data.github}
     
   ## Contact
   If you have any questions about this application,please contact  ${data.email}
