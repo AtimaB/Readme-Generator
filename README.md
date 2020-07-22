@@ -27,4 +27,4 @@ This application is covered by **MIT** license.
 #### GitHub
   http://www.github.com/AtimaB
 
-If you have any questions about this application,please contact  nickzehn10@hotmail.com
+If you have any questions about this application, please contact  nickzehn10@hotmail.com
