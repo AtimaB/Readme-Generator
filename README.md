@@ -6,10 +6,9 @@ This project I created a command-line application that generates a professional 
 
 ## Table of Contents
 * [Installation](#installation)
-* [Usage](#usage-information)
+* [Usage](#usage)
 * [License](#license)
-* [Contribution](#contribution-guidelines)s
-* [Tests](#tests-instructions)
+* [Tests](#tests)
 * [Questions](#questions)
 
 ## Installation
@@ -18,7 +17,7 @@ This project I created a command-line application that generates a professional 
    - Run `npm init` , `npm install inquirer`  and  `npm install util`.
 ## Usage Information
   Type `node index.js` in console and follow all the questions, once the user answered all the questions, README.md file will be created into the root directory.
-## Contribution Guidelines
+
 
 ## Tests Instructions
 ![Readme Generator](./assets/readme.gif) 
