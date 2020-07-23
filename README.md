@@ -20,7 +20,11 @@ This project I created a command-line application that generates a professional 
 
 
 ## Tests
-![Readme Generator](./assets/readme.gif) 
+![Readme Generator](./assets/readme.gif)
+![Readme Index.js](./assets/readmeIndex.png)
+![Readme generateMarkdown.js](./assets/readmeGenerateMarkdown.png)
+![Readme node index.js](./assets/readmeNode.png)
+![Readme Markdown.js](./assets/readmeMarkdown.png)
 
 ## License
 This application is covered by **MIT** license.
