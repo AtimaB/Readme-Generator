@@ -15,11 +15,11 @@ This project I created a command-line application that generates a professional 
   To install the necessary dependencies, run the following command.
    - Clone [README Generator Repository](https://github.com/AtimaB/Readme-Generator.git)
    - Run `npm init` , `npm install inquirer`  and  `npm install util`.
-## Usage Information
+## Usage
   Type `node index.js` in console and follow all the questions, once the user answered all the questions, README.md file will be created into the root directory.
 
 
-## Tests Instructions
+## Tests
 ![Readme Generator](./assets/readme.gif) 
 
 ## License
