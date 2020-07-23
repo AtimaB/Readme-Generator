@@ -8,17 +8,20 @@ This project I created a command-line application that generates a professional 
 * [Installation](#installation)
 * [Usage](#usage-information)
 * [License](#license)
-* [Contribution](#contribution-guidelines)
+* [Contribution](#contribution-guidelines)s
 * [Tests](#tests-instructions)
 * [Questions](#questions)
 
 ## Installation
-  To install the necessary dependencies, run the following command: The user has to clone [README Generator Repository](https://github.com/AtimaB/Readme-Generator.git) then run `npm init`,`npm install inquirer` and `npm install util`.
+  To install the necessary dependencies, run the following command.
+   - Clone [README Generator Repository](https://github.com/AtimaB/Readme-Generator.git)
+   - Run `npm init` , `npm install inquirer`  and  `npm install util`.
 ## Usage Information
   Type `node index.js` in console and follow all the questions, once the user answered all the questions, README.md file will be created into the root directory.
 ## Contribution Guidelines
 
 ## Tests Instructions
+![Readme Generator](./assets/readme.gif) 
 
 ## License
 This application is covered by **MIT** license.
